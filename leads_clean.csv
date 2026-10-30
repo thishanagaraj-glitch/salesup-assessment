@@ -1,0 +1,78 @@
+lead_id,rep_id,source,status,created_date,month,deal_value,email,outlier_flag,iqr_outlier,negative_value,won_missing_value,won_zero_value,value_on_non_won
+1,111,LinkedIn,Open,2026-09-16,2026-09,0.0,anita9@nova.io,False,False,False,False,False,False
+2,102,Website,Open,2026-09-06,2026-09,0.0,kiran28@gmail.com,False,False,False,False,False,False
+3,101,LinkedIn,Won,2026-10-09,2026-10,11000.0,tara13@nova.io,False,False,False,False,False,False
+4,111,Cold Call,Lost,2026-09-29,2026-09,0.0,kiran18@gmail.com,False,False,False,False,False,False
+5,103,Website,Lost,2026-09-10,2026-09,0.0,sanjay22@gmail.com,False,False,False,False,False,False
+6,102,Referral,Won,2026-09-23,2026-09,0.0,jaya17@gmail.com,False,False,False,False,True,False
+7,112,Website,Won,2026-09-25,2026-09,18000.0,tara19@nova.io,False,False,False,False,False,False
+8,110,Cold Call,Lost,2026-09-13,2026-09,0.0,ravi3@nova.io,False,False,False,False,False,False
+9,104,Cold Call,Open,2026-10-25,2026-10,0.0,,False,False,False,False,False,False
+10,105,Website,Open,2026-09-11,2026-09,0.0,swati23@yahoo.com,False,False,False,False,False,False
+11,111,LinkedIn,Open,2026-10-12,2026-10,0.0,,False,False,False,False,False,False
+12,103,Website,Won,2026-09-30,2026-09,56500.0,vikram36@yahoo.com,False,False,False,False,False,False
+13,111,Referral,Won,2026-09-04,2026-09,4500000.0,,True,True,False,False,False,False
+14,107,LinkedIn,Won,2026-10-07,2026-10,120000.0,harish14@nova.io,False,False,False,False,False,False
+15,108,Referral,Open,2026-09-30,2026-09,0.0,manoj17@yahoo.com,False,False,False,False,False,False
+16,104,Cold Call,Lost,2026-10-18,2026-10,0.0,kiran28@brightfin.com,False,False,False,False,False,False
+17,107,Referral,Open,2026-09-09,2026-09,0.0,bala32@gmail.com,False,False,False,False,False,False
+18,101,Cold Call,Won,2026-09-11,2026-09,109000.0,geeta39@gmail.com,False,False,False,False,False,False
+19,107,Referral,Open,2026-10-04,2026-10,0.0,vikram36@gmail.com,False,False,False,False,False,False
+20,111,Cold Call,Open,2026-10-05,2026-10,0.0,vikram22@gmail.com,False,False,False,False,False,False
+21,105,Referral,Lost,2026-10-17,2026-10,0.0,vikram33@yahoo.com,False,False,False,False,False,False
+22,109,Indeed,Open,2026-09-20,2026-09,0.0,bala39@yahoo.com,False,False,False,False,False,False
+23,103,Referral,Won,2026-10-20,2026-10,,arjun39@acme.com,False,False,False,True,False,False
+24,108,LinkedIn,Open,2026-10-27,2026-10,,rekha16@gmail.com,False,False,False,False,False,False
+25,104,Cold Call,Open,2026-09-06,2026-09,,uma5@brightfin.com,False,False,False,False,False,False
+26,103,LinkedIn,Lost,2026-10-06,2026-10,0.0,pooja17@brightfin.com,False,False,False,False,False,False
+27,110,Referral,Won,2026-10-05,2026-10,104500.0,sanjay20@zenco.in,False,False,False,False,False,False
+28,111,Website,Lost,2026-10-04,2026-10,0.0,ashok8@yahoo.com,False,False,False,False,False,False
+29,104,LinkedIn,Won,2026-10-06,2026-10,37000.0,kiran15@gmail.com,False,False,False,False,False,False
+30,102,Cold Call,Won,2026-09-05,2026-09,12000.0,harish5@brightfin.com,False,False,False,False,False,False
+31,104,LinkedIn,Lost,2026-10-05,2026-10,0.0,manoj37@brightfin.com,False,False,False,False,False,False
+32,108,LinkedIn,Lost,2026-09-27,2026-09,0.0,sanjay7@gmail.com,False,False,False,False,False,False
+33,111,Referral,Lost,2026-09-30,2026-09,0.0,sneha7@gmail.com,False,False,False,False,False,False
+34,107,Cold Call,Won,2026-09-07,2026-09,-25000.0,anita13@yahoo.com,True,False,True,False,False,False
+35,109,Referral,Lost,2026-09-18,2026-09,0.0,ashok16@gmail.com,False,False,False,False,False,False
+36,108,Cold Call,Open,2026-09-07,2026-09,0.0,,False,False,False,False,False,False
+37,102,Indeed,Open,2026-09-11,2026-09,0.0,geeta32@zenco.in,False,False,False,False,False,False
+38,104,Cold Call,Open,2026-09-11,2026-09,0.0,naveen1@zenco.in,False,False,False,False,False,False
+39,105,Indeed,Open,2026-09-19,2026-09,,geeta36@nova.io,False,False,False,False,False,False
+40,112,Website,Won,2026-09-14,2026-09,15000.0,kiran35@gmail.com,False,False,False,False,False,False
+41,112,Referral,Won,2026-10-01,2026-10,72000.0,bala11@gmail.com,False,False,False,False,False,False
+42,109,LinkedIn,Won,2026-10-09,2026-10,16500.0,anita26@gmail.com,False,False,False,False,False,False
+43,110,LinkedIn,Lost,2026-10-10,2026-10,0.0,ravi27@nova.io,False,False,False,False,False,False
+44,110,Website,Lost,2026-09-17,2026-09,0.0,sanjay21@yahoo.com,False,False,False,False,False,False
+45,105,Referral,Lost,2026-09-20,2026-09,0.0,ashok21@gmail.com,False,False,False,False,False,False
+46,101,Website,Open,2026-09-07,2026-09,0.0,ravi35@yahoo.com,False,False,False,False,False,False
+47,109,LinkedIn,Open,2026-10-27,2026-10,0.0,ravi16@acme.com,False,False,False,False,False,False
+48,105,LinkedIn,Won,2026-10-16,2026-10,3800000.0,rekha40@nova.io,True,True,False,False,False,False
+49,109,LinkedIn,Open,2026-09-20,2026-09,0.0,kavya9@acme.com,False,False,False,False,False,False
+50,102,Cold Call,Open,2026-09-10,2026-09,0.0,vikram19@brightfin.com,False,False,False,False,False,False
+51,104,Cold Call,Won,2026-10-11,2026-10,117000.0,vikram33@zenco.in,False,False,False,False,False,False
+52,105,Indeed,Open,2026-09-06,2026-09,0.0,geeta18@gmail.com,False,False,False,False,False,False
+53,101,Referral,Won,2026-09-17,2026-09,28500.0,ashok36@nova.io,False,False,False,False,False,False
+54,107,Website,Won,2026-10-27,2026-10,96000.0,manoj35@gmail.com,False,False,False,False,False,False
+55,106,Website,Won,2026-09-09,2026-09,13000.0,rekha24@gmail.com,False,False,False,False,False,False
+56,106,LinkedIn,Won,2026-09-07,2026-09,53000.0,tara27@brightfin.com,False,False,False,False,False,False
+57,112,LinkedIn,Open,2026-10-26,2026-10,0.0,pooja12@zenco.in,False,False,False,False,False,False
+58,101,LinkedIn,Open,2026-10-21,2026-10,0.0,geeta16@acme.com,False,False,False,False,False,False
+59,103,Cold Call,Won,2026-10-26,2026-10,,uma15@yahoo.com,False,False,False,True,False,False
+60,108,Referral,Lost,2026-10-26,2026-10,0.0,anita15@gmail.com,False,False,False,False,False,False
+62,111,Website,Won,2026-10-24,2026-10,0.0,tara22@gmail.com,False,False,False,False,True,False
+63,102,Cold Call,Won,2026-10-08,2026-10,41500.0,sneha7@brightfin.com,False,False,False,False,False,False
+64,107,Referral,Open,2026-09-28,2026-09,,jaya33@gmail.com,False,False,False,False,False,False
+65,107,Cold Call,Won,2026-09-03,2026-09,98500.0,geeta1@brightfin.com,False,False,False,False,False,False
+66,109,Website,Open,2026-10-18,2026-10,0.0,sanjay24@zenco.in,False,False,False,False,False,False
+67,102,Indeed,Open,2026-10-10,2026-10,0.0,harish8@nova.io,False,False,False,False,False,False
+68,105,Website,Lost,2026-09-21,2026-09,0.0,naveen19@brightfin.com,False,False,False,False,False,False
+69,103,LinkedIn,Lost,2026-09-25,2026-09,0.0,pooja40@brightfin.com,False,False,False,False,False,False
+70,105,Referral,Lost,2026-09-20,2026-09,0.0,rekha14@zenco.in,False,False,False,False,False,False
+71,110,Website,Lost,2026-09-29,2026-09,0.0,ashok14@brightfin.com,False,False,False,False,False,False
+73,109,Website,Lost,2026-09-06,2026-09,0.0,anita20@yahoo.com,False,False,False,False,False,False
+74,104,LinkedIn,Won,2026-10-01,2026-10,86000.0,ravi30@zenco.in,False,False,False,False,False,False
+75,111,Website,Open,2026-09-25,2026-09,0.0,uma26@yahoo.com,False,False,False,False,False,False
+76,103,Website,Won,2026-10-19,2026-10,118000.0,kavya28@yahoo.com,False,False,False,False,False,False
+77,103,Cold Call,Open,2026-09-30,2026-09,0.0,sneha36@yahoo.com,False,False,False,False,False,False
+78,102,Website,Open,2026-10-13,2026-10,0.0,bala36@brightfin.com,False,False,False,False,False,False
+80,108,Cold Call,Open,2026-10-01,2026-10,0.0,ashok17@yahoo.com,False,False,False,False,False,False
